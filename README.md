@@ -208,25 +208,7 @@ The app will open in your browser at `http://localhost:8501`
 - **Personalization:** Adapts to user's movie selection
 - **Diversity:** Provides varied yet relevant suggestions
 
-## 🔮 Future Enhancements
 
-- [ ] **Collaborative Filtering** - Add user-based recommendations
-- [ ] **Hybrid System** - Combine content and collaborative approaches
-- [ ] **User Accounts** - Save favorites and watch history
-- [ ] **Advanced Filters** - Filter by genre, year, rating
-- [ ] **Batch Recommendations** - Get suggestions for multiple movies
-- [ ] **API Integration** - Real-time data updates from TMDb
-- [ ] **A/B Testing** - Optimize recommendation weights
-- [ ] **Mobile App** - Native iOS/Android application
-
-## 📚 Learning Outcomes
-
-This project demonstrates proficiency in:
-- **Data Science Pipeline** - From collection to deployment
-- **Machine Learning** - Model selection, training, and evaluation
-- **NLP** - Semantic embeddings and similarity metrics
-- **Web Development** - Full-stack Streamlit application
-- **Software Engineering** - Clean code, version control, documentation
 
 ## 🤝 Contributing
 
@@ -238,20 +220,12 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👤 Author
 
 **Aitugan Shagyr**
 
-## 🙏 Acknowledgments
-
-- **TMDb** - For providing the comprehensive movie database API
-- **Hugging Face** - For the SentenceTransformer models
-- **Streamlit Team** - For the excellent web framework
-- **MAT124 Instructors** - For project guidance and support
 
 ## 📧 Contact
 
@@ -259,8 +233,5 @@ For questions or feedback, please reach out through GitHub issues or email.
 
 ---
 
-**Course:** MAT124  
-**Project:** Movie Data Analysis and Recommendation System  
-**Year:** 2024-2025
 
 ⭐ If you found this project helpful, please consider giving it a star!
